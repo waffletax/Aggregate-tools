@@ -8,7 +8,7 @@ const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
   "background": "paper",
   "showConsulting": true,
   "heroHeadline": "AI tools that pull their weight on a jobsite.",
-  "heroSub": "A working directory of AI software for estimating, field ops, safety, documentation, and back-office. Reviewed by people who've spent time on the job, not tech bros."
+  "heroSub": "A working directory of AI software for Trade and Construction."
 }/*EDITMODE-END*/;
 
 const ACCENT_OPTIONS = ["#ff5a1f", "#ffd400", "#c8ff2a", "#e63946"];
