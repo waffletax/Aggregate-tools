@@ -249,7 +249,7 @@ function HomePage({ tweaks }) {
               <p className="eyebrow" style={{ marginBottom: 12 }}>How we pick</p>
               <h2 className="display h3" style={{ margin: 0, marginBottom: 24 }}>Boots before bytes.</h2>
               <p style={{ fontSize: 17, color: "var(--fg-muted)", lineHeight: 1.6 }}>
-                Every tool listed here was vetted with the same checklist we use for a sub. Does it actually save time? Will my super use it? Can it survive a Monday with no Wi-Fi? If we wouldn't put it on our own job, it isn't here.
+                Every tool listed here was vetted with the same checklist we use for a sub. Does it actually save time? Will my team use it? Can it survive a Monday with no Wi-Fi? If we wouldn't put it on our own job, it isn't here.
               </p>
               <ul style={{ marginTop: 28, padding: 0, listStyle: "none", display: "flex", flexDirection: "column", gap: 16 }}>
                 {[
