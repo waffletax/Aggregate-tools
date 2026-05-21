@@ -81,8 +81,6 @@ function HomePage({ tweaks }) {
           <div className="marquee-track">
             {[...Array(2)].map((_, i) =>
             <React.Fragment key={i}>
-                <MarqueeItem>NOT A BOT WROTE THIS</MarqueeItem>
-                <MarqueeItem accent>·</MarqueeItem>
                 <MarqueeItem>FIELD-TESTED PICKS</MarqueeItem>
                 <MarqueeItem accent>·</MarqueeItem>
                 <MarqueeItem>NO PAID PLACEMENTS</MarqueeItem>
