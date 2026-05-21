@@ -7,7 +7,7 @@ const TWEAK_DEFAULTS = /*EDITMODE-BEGIN*/{
   "accent": "orange",
   "background": "paper",
   "showConsulting": true,
-  "heroHeadline": "AI tools that pull their weight on a jobsite.",
+  "heroHeadline": "AI tools that pull their weight.",
   "heroSub": "A working directory of AI software for Trade and Construction."
 }/*EDITMODE-END*/;
 
